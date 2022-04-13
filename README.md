@@ -1,5 +1,4 @@
-<?php 
+~~~php
 
 include 'Iugas.php';
-
-?>
+~~~
