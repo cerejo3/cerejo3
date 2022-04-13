@@ -1,0 +1,172 @@
+@import url('https://fonts.googleapis.com/css2?family=Grape+Nuts&display=swap');
+
+html{
+    font-family: 'Nunito', sans-serif;
+}
+
+Header{
+    background-color: #242121;
+}
+
+.divHeader{
+    padding-top: 10px;
+}
+
+.imgHeader{
+    width: 15%;
+}
+
+.divHeader p{
+    color: white;
+    font-size: 60px;
+    margin-left: 5px;
+    margin-top: 10px;
+    font-family: 'Grape Nuts', cursive;
+}
+
+.navNav a{
+    color: white;
+    font-size: 19px;
+    margin-top: 2%;
+    font-weight: 450;
+}
+
+.navNav a:hover{
+    color:#767676;
+}
+
+Main{
+    background-color: white;
+}
+
+.divMain{
+    width: 100%;
+}
+
+.mainIndex{
+    padding-top: 10px;
+}
+
+.boxIndex{
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.mainIndex img{
+    width: 25%;
+}
+
+.divDesc{
+    word-wrap: break-word;
+    width: 500px;
+    padding: 5px 10px 5px 10px;
+}
+
+.divDesc p{
+    font-weight: 700;
+    margin-bottom:0;
+    color: #553788;
+    font-size: 28px;
+}
+
+.divDesc p:nth-child(2){
+    font-weight: 460;
+    font-size: 26px;
+}
+
+.box2Index{
+    background-color: wheat;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.box2Index img{
+    width: 25%;
+}
+
+.box2Text{
+    word-wrap: break-word;
+    width: 400px;
+    padding: 5px 10px 5px 10px;
+}
+
+.box2Text p{
+    font-weight: 500;
+    margin-bottom:0;
+    color: black;
+    font-size: 28px;
+}
+
+.box2Text p:nth-child(2){
+    font-weight: lighter;
+    font-size: 26px;
+}
+
+.box3Index{
+    background-color: silver;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.box3Index img{
+    width: 25%;
+}
+
+.box3Text{
+    word-wrap: break-word;
+    width: 400px;
+    padding: 5px 10px 5px 10px;
+}
+
+.box3Text p{
+    font-weight: 500;
+    margin-bottom: 0;
+    color: black;
+    font-size: 28px;
+}
+
+.box3Text p:nth-child(2){
+    font-weight: lighter;
+    font-size: 26px;
+}
+
+.box3Text button{
+    background-color: transparent;
+    color: black;
+    font-weight: bolder;
+    text-align: center;
+    text-decoration: none;
+    border: 2px solid #66757f;
+    border-radius: 0.25rem;
+    padding: 0.400rem 0.85rem;
+    transition: .60s;
+    margin-top: 5px;
+}
+
+.box3Text button:hover{
+    background-color: #66757f;
+    transition: .60s;
+}
+
+.divFooter{
+    background-color: #242121;
+    color: white;
+    width: 100%;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.divFooterContato{
+    margin-right: 1em;
+}
+
+.divFooterContato p{
+    font-weight: 450;
+    margin-bottom: 0;
+    color: white;
+    font-size: 25px;
+}
+
+.divFooter img{
+    width: 15%;
+}
